@@ -9,8 +9,8 @@ int val;
 
 void setup() {
   pinMode(3,OUTPUT);
-  // Attach the ESC on pin 9
-  ESC.attach(3,1000,1001); // (pin, min pulse width, max pulse width in microseconds) 
+  // Attach the ESC on pin 3
+  ESC.attach(3,1000,2000); // (pin, min pulse width, max pulse width in microseconds) 
   myservo.attach(6);
   Serial.begin(9600);
 }
