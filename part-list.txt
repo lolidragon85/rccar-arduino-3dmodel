@@ -5,3 +5,4 @@ nano-tech 1500mAh LiPo (2 články)
 5m cat5e kabel
 arduino uno
 2 joystick
+4x 1:10 25mmx70mm disk+pneu s šesti draným unašečem 12mm (vzorek Rally Block Design)
